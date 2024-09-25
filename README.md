@@ -34,13 +34,13 @@ Network & Systems Engineer, Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Mohamed-Konate"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Konate&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Mohamed-Konate"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Konate&stroke=ffffff&background=1c1917&ring=45a037&fire=f58220&currStreakNum=ffffff&currStreakLabel=45a037&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 ### Top Repositories
 
 <a href="https://github.com/Mohamed-Konate/nom-du-depot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Konate&repo=dhis2-core&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Konate&repo=dhis2-core&title_color=45a037&text_color=ffffff&icon_color=45a037&bg_color=1c1917&hide_border=true" />
 </a>
 
 
