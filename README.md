@@ -5,8 +5,8 @@ Network & Systems Engineer, Developer
 
 ---------------------------------------------
 
-* 🌍  I'm based in Bamako, Mali
-* ✉️  You can contact me at [ing.mohamedkonate@gmail.com](mailto:ing.mohamedkonate@gmail.com)
+* 🌍  I'm based in Bamako, Mali
+* ✉️  You can contact me at [ing.mohamedkonate@gmail.com](mailto:ing.mohamedkonate@gmail.com)
 
 ### Skills
 
@@ -15,6 +15,11 @@ Network & Systems Engineer, Developer
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+
+<!-- ✅ Added -->
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
@@ -36,13 +41,11 @@ Network & Systems Engineer, Developer
 
 <a href="http://www.github.com/Mohamed-Konate"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Konate&stroke=ffffff&background=1c1917&ring=45a037&fire=f58220&currStreakNum=ffffff&currStreakLabel=45a037&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
 ### Top Repositories
 
-<a href="https://github.com/Mohamed-Konate/nom-du-depot">
+<a href="https://github.com/Mohamed-Konate/dhis2-core">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Konate&repo=dhis2-core&title_color=45a037&text_color=ffffff&icon_color=45a037&bg_color=1c1917&hide_border=true" />
 </a>
-
 
 ### Socials
 
@@ -59,14 +62,13 @@ Network & Systems Engineer, Developer
   <a href="https://www.linkedin.com/in/mohamed-konate-3b8926162/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
-
 </p>
+
 ### Badges
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/Mohamed-Konate?style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Mohamed-Konate?style=social" alt="GitHub Stars" />
 </p>
-
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
